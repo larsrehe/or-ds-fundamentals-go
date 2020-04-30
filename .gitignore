@@ -2,3 +2,4 @@ bin/
 pkg/
 github.com/
 twitter_api.creds
+tweets.json
