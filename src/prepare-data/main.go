@@ -95,6 +95,6 @@ func main() {
 	fmt.Println("Items in each fold are:", k)
 	for idx := 0; idx < len(TrainData); idx += k {
 		CrossValData = append(CrossValData, TrainData[idx:idx+k])
-		fmt.Println(TrainData[idx:idx+k], len(CrossValData))
+		fmt.Println(len(TrainData[idx:idx+k]), len(CrossValData))
 	}
 }
