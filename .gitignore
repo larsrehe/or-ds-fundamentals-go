@@ -1,5 +1,7 @@
 bin/
 pkg/
+gonum.org/
+gopkg.in/
 github.com/
 twitter_api.creds
 tweets.json
