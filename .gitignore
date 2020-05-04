@@ -1,6 +1,7 @@
 bin/
 pkg/
 gonum.org/
+golang.org/
 gopkg.in/
 github.com/
 twitter_api.creds
